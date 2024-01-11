@@ -1,29 +1,10 @@
 <html>
   <head>
     <title></title>
-    <style>
-      body { margin:1em; font-family: 'Source Code Pro'; }
-p { font-size:2em; }
-    </style>
-    <script>
-      $.ajax({
-	  url: "https://ipinfo.io/json",
-			  dataType: "jsonp",
-			  success: function(data){
-    var cityRegion = data.city +', '+data.region+' ('+data.country+')',
-        ip = data.ip,
-        locationlatitude = data.loc,
-        yournetworkprovider = data.org;
-        $('.city-region').text(cityRegion);
-        $('.ip').text(ip);
-        $('.loc').text(locationlatitude);
-        $('.ynp').text(yournetworkprovider);
-	  }
-});
-    </script>
+  
+   
   </head>
   <body>
-    <p>Location: <span class="city-region"></span><br>
-  IP: <span class="ip"></span><br>Loc: <span class="loc"></span><br/>Your Network Provider: <span class="ynp"></span></p>
+
   </body>
 </html>
