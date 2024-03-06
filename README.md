@@ -1,3 +1,5 @@
 # gnsgns6.github.io
 Here is my github profile
-Visit Here: https://gopinathsahu.onrender.com/ OR https://gopinathsahu.me/
+Portfolio: https://gopinathsahu.me/
+Visit Here: https://gopinathsahu.onrender.com/
+Other Links: https://gnsgns6-github-io.vercel.app/
