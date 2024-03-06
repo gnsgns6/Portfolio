@@ -1,6 +1,7 @@
-gnsgns6.github.io
-<br>
+
 Welcome to my Github Profile
+<br>
+Github site: https://gnsgns6.github.io/
 <br>
 Portfolio: https://gopinathsahu.me/
 <br>
