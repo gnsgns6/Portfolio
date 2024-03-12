@@ -5,3 +5,10 @@ img{
     height: 300px;
     width: 300px;
 }
+ul{
+    color: cyan;
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
