@@ -9,13 +9,27 @@ img{
 ul{
     color: cyan;
     list-style-type: none;
-    text-align: center;
+    text-align: right;
     padding: 20px;
 }
 li{
     display: inline;
+    padding: 8px;
+    border: 1px groove cyan;
+    border-radius: 7px;
+    font-family: "Comic Sans MS";
+    background-color: darkmagenta;
+    box-shadow: 4px 4px;
+}
+li:hover{
+    box-shadow: 4px 4px yellow;
+    color: greenyellow;
 }
 .nav{
     background-color: darkgreen;
     border-radius: 12px;
+}
+img{
+    border: 3px solid red;
+    border-radius: 150px;
 }
