@@ -1,35 +1,41 @@
 body{
     background-image: linear-gradient(to right, #000000, #130007, #1b0012, #20001d, #1f0029, #200238, #1c0448, #0d085a, #0f0a71, #120b88, #160ba0, #1a0bb9);
 }
-img{
-    margin-top: 50px;
-    height: 300px;
-    width: 300px;
-}
 ul{
-    color: cyan;
     list-style-type: none;
     text-align: right;
-    padding: 20px;
+    padding: 12px;
 }
 li{
     display: inline;
     padding: 8px;
-    border: 1px groove cyan;
-    border-radius: 7px;
     font-family: "Comic Sans MS";
-    background-color: darkmagenta;
-    box-shadow: 4px 4px;
 }
-li:hover{
-    box-shadow: 4px 4px yellow;
-    color: greenyellow;
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
 }
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
 .nav{
     background-color: darkgreen;
     border-radius: 12px;
-}
-img{
-    border: 3px solid red;
-    border-radius: 150px;
 }
