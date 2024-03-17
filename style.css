@@ -1,3 +1,7 @@
+nav .header{
+    float: left;
+    color: cyan;
+}
 body{
     background-image: linear-gradient(to right, #000000, #130007, #1b0012, #20001d, #1f0029, #200238, #1c0448, #0d085a, #0f0a71, #120b88, #160ba0, #1a0bb9);
 }
@@ -11,29 +15,17 @@ li{
     padding: 8px;
     font-family: "Comic Sans MS";
 }
-a:link {
-    color: green;
+a{
     background-color: transparent;
     text-decoration: none;
 }
+a:link {color: green;}
 
-a:visited {
-    color: pink;
-    background-color: transparent;
-    text-decoration: none;
-}
+a:visited {color: pink;}
 
-a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: none;
-}
+a:hover {color: red;}
 
-a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: none;
-}
+a:active {  color: yellow; }
 
 .nav{
     background-color: darkgreen;
