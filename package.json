@@ -1,0 +1,20 @@
+{
+  "name": "gnsgns6.github.io",
+  "version": "1.0.0",
+  "description": "Welcome to my Github Profile\r <br>\r Github Built-in site: https://gnsgns6.github.io/\r <br>\r Custom Domain: https://gopinathsahu.me/\r <br>\r Deployed at: https://gnsgns6-github-io.vercel.app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "vite": "^5.2.2"
+  }
+}
